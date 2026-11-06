@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/slackapi/python-slack-sdk/commit/d9618f86e9ea7e4a7692240f7418474f4849ebeb",
       "git:hexsha": "d9618f86e9ea7e4a7692240f7418474f4849ebeb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T02:55:52.420282+00:00"
     },
     {
       "@id": "https://repolex.ai/r/slackapi/python-slack-sdk/commit/e1a4a3cbfe1857464492ece956d0f3981d9794a1",
