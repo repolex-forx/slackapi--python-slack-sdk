@@ -920,7 +920,7 @@
     {
       "@id": "https://repolex.ai/r/slackapi/python-slack-sdk/commit/0c08503563d5687a81ab421d97e95dae126c7297",
       "git:hexsha": "0c08503563d5687a81ab421d97e95dae126c7297",
-      "repolex:parseStatus": "pending",
+      "repolex:parseStatus": "metadata_complete",
       "git:tagName": "v3.41.0"
     },
     {
@@ -1030,6 +1030,18 @@
       "git:hexsha": "e15975b65a2929c8f758c8109abd56f5f56435a2",
       "repolex:parseStatus": "pending",
       "git:tagName": "v3.9.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/slackapi/python-slack-sdk/commit/e0eac68aa040ec5d096d461d7ed60c7c6d1e2d9f",
+      "git:hexsha": "e0eac68aa040ec5d096d461d7ed60c7c6d1e2d9f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.47.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/slackapi/python-slack-sdk/commit/da717a521334dd92fb5d46b434e0163fcf58855f",
+      "git:hexsha": "da717a521334dd92fb5d46b434e0163fcf58855f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v3.48.0"
     }
   ]
 }
